@@ -11,7 +11,7 @@ The **SpectraXceed** is a hybrid tool that can be used through a **Graphical Use
 
 ## **Installation**
 
-Download the latest version from the [Releases](https://github.com/lutfia95/SpectraXceed/releases) page.
+Download the latest version from the [Releases](https://github.com/Rappsilber-Laboratory/SpectraXceed/releases) page.
 
 ## **Usage**
 
@@ -44,7 +44,7 @@ SpectraXceed.v0.3.0.exe --input <RAW_FILES> --output-dir <OUTPUT_DIRECTORY> [OPT
 ### **Example Command:**
 
 ```sh
-SpectraXceed.v0.3.0.exe --input C:\data\file1.raw C:\data\file2.raw --output-dir C:\output --file-based-details --graphical-representation --config config.yml --ms-method --lc-method --complete-ms2 --complete-ms1
+SpectraXceed.vx.x.x.exe --input C:\data\file1.raw C:\data\file2.raw --output-dir C:\output --file-based-details --graphical-representation --config config.yml --ms-method --lc-method --complete-ms2 --complete-ms1
 ```
 
 ## **Output Formats**
